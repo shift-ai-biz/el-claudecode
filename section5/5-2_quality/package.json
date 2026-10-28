@@ -1,0 +1,13 @@
+{
+  "name": "quality-work",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "/code-review と /verify、ヘッドレス実行を体験するための教材",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "vitest": "^2.1.0"
+  }
+}

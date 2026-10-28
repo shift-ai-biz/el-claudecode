@@ -1,0 +1,9 @@
+{
+  "name": "hooks-work",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PostToolUse フックで自動フォーマットを体験するための教材",
+  "devDependencies": {
+    "prettier": "^3.3.0"
+  }
+}
